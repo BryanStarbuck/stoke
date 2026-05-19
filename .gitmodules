@@ -1,0 +1,3 @@
+[submodule "stoke_bryan_personal"]
+	path = stoke_bryan_personal
+	url = https://github.com/BryanStarbuck/stoke_bryan_personal.git
